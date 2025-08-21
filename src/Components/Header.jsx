@@ -1,4 +1,4 @@
-import Logo from "./logo";
+import Logo from "./Logo";
 import ThemeSwitcher from "./Themeswitcher";
 
 const Header = () => {
@@ -14,3 +14,4 @@ const Header = () => {
   );
 };
 export default Header;
+
